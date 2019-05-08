@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=MyStage(GameLogic)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=p\ piece
+comment2.target=void\ updatePiece(Point,\ Piece)
+comment3.params=p
+comment3.target=java.util.List\ surroundingSquares(Point)
+comment4.params=list\ var
+comment4.target=void\ highlightSurroundingSquares(java.util.List,\ boolean)
+comment5.params=
+comment5.target=void\ reset()
+comment6.params=row\ col
+comment6.target=void\ click(int,\ int)
+comment7.params=p
+comment7.target=void\ clickFrom(Point)
+comment8.params=p
+comment8.target=void\ clickTo(Point)
+comment9.params=p
+comment9.target=void\ clickAttack(Point)
+numComments=10
