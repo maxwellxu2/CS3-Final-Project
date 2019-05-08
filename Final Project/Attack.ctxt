@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Attack
+comment1.params=piece\ destination
+comment1.target=Attack(Point,\ Point)
+comment2.params=
+comment2.target=Point\ getPiece()
+comment3.params=
+comment3.target=Point\ getDestination()
+comment4.params=other
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\r\n\tTwo\ Move\ objects\ are\ equal\ if\ all\ of\ their\ Point\ instance\ variables\ are\ equal\r\n\t(see\ the\ .equals\ method\ of\ the\ Point\ class)\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=row\ col
+comment1.target=Block(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Block\r\n
+comment2.params=row\ col\ str
+comment2.target=Block(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ update()
+numComments=4
